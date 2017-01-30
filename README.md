@@ -37,5 +37,7 @@ Graceful degradation used to be the norm, meaning that designers created for the
 
 The term “mobile first”, being very descriptive, already gives us a good hint of what to expect: primarily focusing on development for mobile devices. The common responsive approach works with the desktop browser as the basis, and offers alternative, scaled down versions for other device/browser sizes. That works via CSS media queries, which check the browser size and adjust the layout and styling according to that.
 
+# Muhammed
+
 ![alt text](http://metamonks.com/wp-content/uploads/responsive-vs-mobile-first-webdesign-022-1024x689.png "Responsive vs mobile-first design")
 
