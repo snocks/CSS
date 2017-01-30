@@ -78,6 +78,31 @@ The layouts based on grids are not appropriate in all cases and sometimes cannot
 
 Grids may limit the design by forcing it to be constrained and even confined.
 
+### What is a CSS Preprocessor?
+
+A CSS preprocessor is a scripting language that extends CSS and is compiled into regular CSS syntax. A browser can only understand CSS, which at times may not be enough to write clean and reusable rules. Using only CSS, the designer/developer is not able to reuse a collection of rules in multiple selectors which had unclear pieces of data across a stylesheet. To overcome most of these limitations, the concept of a preprocessor was created. It offered an advanced way of writing CSS that extends the basic functionalities. This advanced code is later compiled as normal CSS code that the browser will understand.
+
+There are three main preprocessors – *SASS*, *LESS* and *STYLES*.
+Each CSS preprocessor has its own unique way of accomplishing the same task, but have some  differences in the advanced usage.
+
+### Why would you use one?
+1. It will make your CSS DRY means Don’t repeat yourself. For example:
+
+![alt text](https://scontent-fra3-1.xx.fbcdn.net/v/t34.0-12/16441646_1802172956714169_602525465_n.jpg?oh=afc5734c05f8b4c497851c59bf4b7e1c&oe=5891736D)
+it become:
+![alt text](https://scontent-fra3-1.xx.fbcdn.net/v/t34.0-12/16344508_1802173736714091_1975047297_n.jpg?oh=b069cdce5e706e2ebddd93704fd77c7d&oe=5891AD7E)
+
+2. 	It allow you to  perform any Arithmetical and Logical task
+* **If/Else Statements**
+Control directives and expressions help to build similar style definitions according to matched conditions or variables
+![alt text](https://scontent-fra3-1.xx.fbcdn.net/v/t34.0-12/16395692_1802175436713921_102095747_n.jpg?oh=08320bb3c0a0d627a68024d5f09a8c86&oe=5891B7A1)
+
+* **Loops**
+Loops are useful when iterating through an array or creating a series of styles as in grid widths. 
+![alt text](https://scontent-fra3-1.xx.fbcdn.net/v/t34.0-12/16443342_1802175813380550_252952704_n.jpg?oh=fb4bd57eaf7159b258b772784890c751&oe=5891B557)
+3. It will save your time. You will be impressed at how much time you will save when you aren’t forced to write the same code over and over again. We can all use a little more free time.
+
+
 
 
 
