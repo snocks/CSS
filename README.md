@@ -41,4 +41,49 @@ The term “mobile first”, being very descriptive, already gives us a good hin
 
 ![alt text](http://metamonks.com/wp-content/uploads/responsive-vs-mobile-first-webdesign-022-1024x689.png "Responsive vs mobile-first design")
 
+### Grid system
+
+Over the past few years CSS grid systems have grown a lot in popularity, quickly becoming considered best practice for rapid layout scaffolding. As a result, there has been no shortage of frameworks popping up offering their own grid systems trying to garner favor.
+
+What’s Grid System?
+A grid system is a structure that allows for content to be stacked both vertically and horizontally in a consistent and easily manageable fashion. Additionally, grid system code is giving it a high degree of portability so that it may be adopted on new projects.
+
+
+Now, When we want to design a web page, we should consider the size of screens of devices, which divided into:
+1. xs 
+2. sm 
+3. md 
+4. lg
+
+![alt text](https://scontent-fra3-1.xx.fbcdn.net/v/t35.0-12/16388602_1839734452907384_288964415_o.png?oh=0b255e1a7d1b3815cec1e91571cef459&oe=58914AF4 "Medium & Large")
+
+![alt text](https://scontent-fra3-1.xx.fbcdn.net/v/t35.0-12/16409761_1839734462907383_893359892_o.png?oh=6e635475f8b19ee5a3048703e0ba4b7f&oe=58914AC0 "small devices ")
+
+![alt text](https://scontent-fra3-1.xx.fbcdn.net/v/t35.0-12/16409369_1839734456240717_1914908926_o.png?oh=987dfd71d95cf130692a413c05844b44&oe=589141FF "Responsive vs mobile-first design")
+
+
+#### Advantages:
+
+ Organizing a content into distributed columns and rows.
+
+The layouts that have adapted the grid style look clean and structured,  not chaotic.
+
+ Offers a level of stability to the structure of web design that establishes visual unity between a series of related pieces. 
+
+It is easy if we need to move the content right or left.
+
+#### Disadvantages:
+
+The layouts based on grids are not appropriate in all cases and sometimes cannot satisfy a specific web design style.
+
+Grids may limit the design by forcing it to be constrained and even confined.
+
+
+
+
+
+
+
+
+
 
