@@ -49,6 +49,7 @@ A grid system is a structure that allows for content to be stacked both vertical
 
 
 Now, When we want to design a web page, we should consider the size of screens of devices, which divided into:
+
 1. xs 
 2. sm 
 3. md 
@@ -85,6 +86,7 @@ There are three main preprocessors – *SASS*, *LESS* and *STYLES*.
 Each CSS preprocessor has its own unique way of accomplishing the same task, but have some  differences in the advanced usage.
 
 ### Why would you use one?
+
 1. It will make your CSS DRY means Don’t repeat yourself. For example:
 
 ![alt text](https://scontent-fra3-1.xx.fbcdn.net/v/t34.0-12/16441646_1802172956714169_602525465_n.jpg?oh=afc5734c05f8b4c497851c59bf4b7e1c&oe=5891736D)
