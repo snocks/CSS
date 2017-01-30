@@ -92,7 +92,7 @@ Each CSS preprocessor has its own unique way of accomplishing the same task, but
 it become:
 ![alt text](https://scontent-fra3-1.xx.fbcdn.net/v/t34.0-12/16344508_1802173736714091_1975047297_n.jpg?oh=b069cdce5e706e2ebddd93704fd77c7d&oe=5891AD7E)
 
-2. 	It allow you to  perform any Arithmetical and Logical task
+2. It allow you to  perform any Arithmetical and Logical task
 
 * **If/Else Statements**
 Control directives and expressions help to build similar style definitions according to matched conditions or variables
@@ -102,7 +102,7 @@ Control directives and expressions help to build similar style definitions accor
 Loop are useful when iterating through an array or creating a series of styles as in grid widths. 
 ![alt text](https://scontent-fra3-1.xx.fbcdn.net/v/t34.0-12/16443342_1802175813380550_252952704_n.jpg?oh=fb4bd57eaf7159b258b772784890c751&oe=5891B557)
 
-3.  It will save your time. You will be impressed at how much time you will save when you aren’t forced to write the same code over and over again. We can all use a little more free time.
+3. It will save your time. You will be impressed at how much time you will save when you aren’t forced to write the same code over and over again. We can all use a little more free time.
 
 
 
