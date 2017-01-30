@@ -1,5 +1,5 @@
 # CSS
-
+### The CSS Box Model
 ### Responsive vs mobile-first design
 
 Mobile first and responsive Web Design (RWD) are huge buzz words in the web design world. But, are they actually different things or is responsive Design just a way to help you create a mobile first design?
