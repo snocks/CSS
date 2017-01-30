@@ -12,4 +12,3 @@ The term “mobile first”, being very descriptive, already gives us a good hin
 
 ![alt text](http://metamonks.com/wp-content/uploads/responsive-vs-mobile-first-webdesign-022-1024x689.png "Responsive vs mobile-first design")
 
-![alt text](https://scontent-fra3-1.xx.fbcdn.net/v/t35.0-12/16388602_1839734452907384_288964415_o.png?oh=0b255e1a7d1b3815cec1e91571cef459&oe=58914AF4 "Responsive vs mobile-first design")
