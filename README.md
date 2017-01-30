@@ -11,6 +11,15 @@ Explanation of the different parts:
 3. Border - A border that goes around the padding and content
 4. Margin - Clears an area outside the border. The margin is transparent
 
+The box model allows us to add a border around elements, and to define space between elements.
+Example
+Div {
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+
 
 ### Responsive vs mobile-first design
 
