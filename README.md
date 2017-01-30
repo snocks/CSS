@@ -14,16 +14,14 @@ The CSS box model is essentially a box that wraps around every HTML element. It 
 
 The box model allows us to add a border around elements, and to define space between elements.
 
-##### Example 
+##### Example :
 
-```css
 div {
     width: 300px;
     border: 25px solid green;
     padding: 25px;
     margin: 25px;
     }
-```
 
 
 
@@ -90,6 +88,7 @@ Each CSS preprocessor has its own unique way of accomplishing the same task, but
 1. It will make your CSS DRY means Don’t repeat yourself. For example:
 
 ![alt text](https://scontent-fra3-1.xx.fbcdn.net/v/t34.0-12/16441646_1802172956714169_602525465_n.jpg?oh=afc5734c05f8b4c497851c59bf4b7e1c&oe=5891736D)
+
 it become:
 ![alt text](https://scontent-fra3-1.xx.fbcdn.net/v/t34.0-12/16344508_1802173736714091_1975047297_n.jpg?oh=b069cdce5e706e2ebddd93704fd77c7d&oe=5891AD7E)
 
@@ -99,9 +98,9 @@ Control directives and expressions help to build similar style definitions accor
 ![alt text](https://scontent-fra3-1.xx.fbcdn.net/v/t34.0-12/16395692_1802175436713921_102095747_n.jpg?oh=08320bb3c0a0d627a68024d5f09a8c86&oe=5891B7A1)
 
 * **Loops**
-Loops are useful when iterating through an array or creating a series of styles as in grid widths. 
+Loop are useful when iterating through an array or creating a series of styles as in grid widths. 
 ![alt text](https://scontent-fra3-1.xx.fbcdn.net/v/t34.0-12/16443342_1802175813380550_252952704_n.jpg?oh=fb4bd57eaf7159b258b772784890c751&oe=5891B557)
-3. It will save your time. You will be impressed at how much time you will save when you aren’t forced to write the same code over and over again. We can all use a little more free time.
+3.  It will save your time. You will be impressed at how much time you will save when you aren’t forced to write the same code over and over again. We can all use a little more free time.
 
 
 
