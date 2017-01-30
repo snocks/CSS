@@ -17,7 +17,6 @@ The box model allows us to add a border around elements, and to define space bet
 ##### Example :
 
 div {
-
     width: 300px;
     border: 25px solid green;
     padding: 25px;
