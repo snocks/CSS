@@ -18,12 +18,10 @@ Example
 
 
 div {
-
     width: 300px;
     border: 25px solid green;
     padding: 25px;
-    margin: 25px;
-}
+    margin: 25px;}
 
 
 
