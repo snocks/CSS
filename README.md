@@ -14,14 +14,16 @@ The CSS box model is essentially a box that wraps around every HTML element. It 
 
 The box model allows us to add a border around elements, and to define space between elements.
 
-##### Example :
+##### Example 
 
+```css
 div {
     width: 300px;
     border: 25px solid green;
     padding: 25px;
     margin: 25px;
     }
+```
 
 
 
@@ -99,7 +101,7 @@ Control directives and expressions help to build similar style definitions accor
 * **Loops**
 Loops are useful when iterating through an array or creating a series of styles as in grid widths. 
 ![alt text](https://scontent-fra3-1.xx.fbcdn.net/v/t34.0-12/16443342_1802175813380550_252952704_n.jpg?oh=fb4bd57eaf7159b258b772784890c751&oe=5891B557)
-3.  It will save your time. You will be impressed at how much time you will save when you aren’t forced to write the same code over and over again. We can all use a little more free time.
+3. It will save your time. You will be impressed at how much time you will save when you aren’t forced to write the same code over and over again. We can all use a little more free time.
 
 
 
