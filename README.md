@@ -14,10 +14,10 @@ Explanation of the different parts:
 
 The box model allows us to add a border around elements, and to define space between elements.
 
-Example
-
+Example :
 
 div {
+
     width: 300px;
     border: 25px solid green;
     padding: 25px;
